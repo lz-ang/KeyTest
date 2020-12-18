@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="simulate_key_description">simulate_key_description</string>
+</resources>
